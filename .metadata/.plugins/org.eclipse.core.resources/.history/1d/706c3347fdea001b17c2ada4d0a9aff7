@@ -1,0 +1,12 @@
+import java.util.*;
+public class Prog2 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int arr[];
+		int n;
+		System.out.println("Enter the Size of the array:");
+		n = sc.nextInt();
+		arr = new int[n];
+	}
+
+}
